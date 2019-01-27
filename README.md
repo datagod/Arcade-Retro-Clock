@@ -18,4 +18,4 @@ Faster models will cause the display to move too fast to comfortably watch (stil
 * NightModeDuration(hours)
 * CPUModifier (1 for slow Pi, 5 for Pi2, etc.)
 
-example:  sudo python PacDot.py 0.07 0.07 0.07 20 55 23 7 1
+example:  sudo python ArcadeRetroClock.py 0.07 0.07 0.07 20 55 23 7 1
