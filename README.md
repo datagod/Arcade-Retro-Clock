@@ -1,3 +1,4 @@
+
 # Arcade-Retro-Clock
 A retro themed clock that plays 8 mini-games.  Written in Python, runs on a Rspberry Pi with the Unicorn Hat (8x8).
 
@@ -19,3 +20,5 @@ Faster models will cause the display to move too fast to comfortably watch (stil
 * CPUModifier (1 for slow Pi, 5 for Pi2, etc.)
 
 example:  sudo python ArcadeRetroClock.py 0.07 0.07 0.07 20 55 23 7 1
+
+[Video Demo](https://www.youtube.com/watch?v=3vcSrx8EY1E)
